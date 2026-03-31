@@ -19,7 +19,12 @@
 <p align="center">Universitas Islam Negeri Syarif Hidayatullah Jakarta</p> 
   <p align="center">2026</p>
 
+##KATA PENGANTAR 
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa karena atas rahmat dan karunia-nya makalah isi dapat disusun dengan baik. Makalah ini disusun untuk membahas posisi teknologi dalam kehidupan manusia, Khususnya sebagai mitos modern serta perannya dalam bentuk realitas melalui perspektif hiperrealitas. 
 
+Di Era digital saat ini, teknologi tidak hanya berfungsi sebagai alat bantu, tetapi juga memengaruhi cara manusia berfikir, berinteraksi, dan memaknai realitas. Oleh karena itu, pembahasan dalam makalah ini diharapkan mampu memberikan sudut pandang yang lebih kritis terhadap penggunaan teknologi dalam kehidupan sehari-hari. 
+
+Kami menyadari bahwa makalah ini masih jauh dari sempurna. Oleh karena itu, kritik dan saran yang membangun sangat diharapkan demi perbaikan di masa mendatang. Semoga makalah ini dapat memberikan manfaat bagi pembaca.  
 
 
 
