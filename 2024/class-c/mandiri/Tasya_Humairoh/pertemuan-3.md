@@ -15,5 +15,7 @@ Teknologi merupakan mesin yang terus menjalankan simulasi. Baudrillard dalam buk
 ## IV. Kesimpulan
 Teknologi memiliki peran dalam membentuk Hiperralitas, jadi teknologi bukan sekedar sebagai alat bantu, tetapi sudah menjadi bagian dalam menciptakan realitas itu sendiri. Karena itu, dalam kehidupan yang sekarang ini, sering kali sulit membedakan mana yang benar-benar nyata dan mana yang hasil dari simulasi.
 
-### Daftar Pustaka 
+---
+## Daftar Pustaka 
+
 Baudrillard, J. (1994). *Simulacra and simulation* (S. F. Glaser, Trans.). University of Michigan press. (Karya asli diterbitkan 1981).
