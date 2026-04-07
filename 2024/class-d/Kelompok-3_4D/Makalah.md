@@ -20,6 +20,7 @@ Akhir kata kami ucapkan terima kasih kepada semua pihak yang turut berperan dala
 
 Jakarta, 8 April 2026
 
+
 Kelompok 3
 ## 1.2 Rumusan Masalah
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
