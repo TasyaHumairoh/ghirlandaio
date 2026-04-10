@@ -24,3 +24,7 @@ Model closed source merupakan pendekatan yang menekankan kontrol, keamanan, dan 
 
 **Referensi**
 
+Berlin, Leslie. 2017. Troublemakers: Silicon Valley's Coming of Age: Simon and Schuster.
+
+Kusuma, B. S. Penggunaan Sistem Operasi Open Source vs. Closed Source di Lingkungan Masyarakat Febrinaldi (0608833.
+
