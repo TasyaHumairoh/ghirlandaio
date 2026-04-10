@@ -21,3 +21,7 @@ Selain itu, hacking culture juga ditandai dengan kuatnya kolaborasi dan keterbuk
 ## Kesimpulan
 
 Setelah memahami isi buku, "Hacking Culture" sendiri bukanlah kalimat yang memiliki arti meretas sistem atau berkaitan dengan coding itu sendiri. Melainkan budaya inovasi yang menekankan kebebasan berpikir, eberanian menantang aturan, serta semangat eksperimen tanpa batas. Para inovator Silicon Valley tidak menunggu sistem yang sempurna, melainkan langsung bertindak dan belajar dari proses yang mereka jalani. Selain itu, kolaborasi dan jaringan sosial yang kuat turut memperkuat budaya ini sehingga inovasi tidak lahir secara individu, melainkan sebagai hasil kerja kolektif. Dengan demikian "Hacking Culture" dalam buku Troublemakers bukan sekedar cara bekerja, Tetapi juga merupakan pola pikir yang mendorong lahirnya terobosan teknologi. Budaya inilah yang menjadi salah satu faktor utama keberhasilan silicon valley hingga saat ini.
+
+## Daftar Pustaka 
+
+Troublemakers: Silicon Valley's Coming of Age. Berlin, Leslie
