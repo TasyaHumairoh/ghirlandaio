@@ -13,3 +13,13 @@ Integrity berkaitan dengan keamanan digital. Dalam sistem digital integrity itu 
 
 ## Kesimpulan 
 Penerapan integrity dalam pengelolaan arsip digital itu penting dan ngga bisa di lakuin secara asal, integrity bukan cuma soal data itu sendiri tetap utuh, tapi juga berkaitan dengan kealian data arsip secara keseluruhan. Mulai dari konsep, penggunaan tenologi, kebijakan organisasi, sampai evaluasi kualitas. Jadi untuk menjaga integrity arsip digital, dibutuhkan kerja sama antar sistem yang baik dan peran manusia yang bertanggung jawab
+
+---
+### Daftar Pustaka
+Tateki, A., Muryanto, B., & Adikara, G. (2023). *Handbook digital safety*. Yayasan LKiS.
+
+Rogers, C. (2015). *Virtual authenticity: Autenthicity of digital records from theory to practice* (doctoral dissertation, The University of British Culombia).
+
+Conway, P. (2011). *Archival quality and long-term preservation: A research framework for validating the usefuless of digital surrogates.* Archival Science, 11(3-4), 293-309.
+
+Smith, A. (Ed.). (2000). *Authenticity in a digital environment.* Council on Library and Information Resources.
